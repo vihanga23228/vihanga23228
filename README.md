@@ -28,5 +28,5 @@ I am a passionate software developer currently focused on building full-stack we
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/vihanga-manasara-b95a522a9)
+- 📧 vihangamanasara7@gmail.com
